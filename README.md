@@ -4,7 +4,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://photos.google.com/photo/AF1QipNG8P1V14A3sgKDrtxJaYq9Ff3bXnsCKBuYBGVt">
  <source media="(prefers-color-scheme: light)" srcset="https://photos.google.com/photo/AF1QipNG8P1V14A3sgKDrtxJaYq9Ff3bXnsCKBuYBGVt">
- <img alt="YOUR-ALT-TEXT" src="https://photos.google.com/photo/AF1QipNG8P1V14A3sgKDrtxJaYq9Ff3bXnsCKBuYBGVt">
+<img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://photos.google.com/photo/AF1QipNG8P1V14A3sgKDrtxJaYq9Ff3bXnsCKBuYBGVt">
 </picture>
 
 
