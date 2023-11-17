@@ -2,9 +2,13 @@
 
 ## About me
 
-Hi, I'm Małgorzata. Professional broking administrator with five years of experience in the insurance industry. 
-Highly motivated to start a new career in IT, manual testing field. 
-Long-term experience in the international environment has given me a wealth of transferable knowledge in administration, sales, insurance software testing, digital marketing, social media and business websites content management.
+Hi, I'm Małgorzata. 
+
+Professional broking administrator with five years of experience in the insurance industry. 
+
+Highly motivated to start a new career in IT, manual testing field, following over two years of experience in testing insurance software. 
+
+Long-term experience in the international environment has given me a wealth of transferable knowledge in administration, sales, insurance, digital marketing, social media and business websites content management. 
 
 
 ## Expertise
