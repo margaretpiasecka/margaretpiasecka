@@ -34,7 +34,7 @@ Long-term experience in the international environment has given me a wealth of t
 |:-----|:-----|:---------------|
 |Jan 2024 to March 2024|  Python from scratch - due to start in Jan 2024|Python|
 ||ISTQB® Foundation Level Certificate - ongoing|ISTQB|
-|Nov 2023 to Dec 2023|  SQL from scratch - ongoing|SQL Server Management Studio, Azure Data Studio|
+|Nov 2023 to Dec 2023|  SQL Basics|SQL Server Management Studio, Azure Data Studio|
 |Nov 2023| 8 methods for creating test cases Black-box test techniques Experience-based test techniques| |
 |Sep 2023 - Oct 2023|Cert Basics of Testing in Practice Course|Draw.io, Miro, Trello, Azure DevOps, Selenium IDE, code2flow, MrBuggy3|
 |March 2023|QA Marathon for beginners - Test Cases, Bug Reports|Jira Software|
